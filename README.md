@@ -1,3 +1,3 @@
-## blog
+## relay-blog
 
-The blog that powers [stepanp.com](http://stepanp.com)
+[stepanp.com](http://stepanp.com) built on top of relay and graphql
